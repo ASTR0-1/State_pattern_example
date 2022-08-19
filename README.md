@@ -6,10 +6,10 @@
 
 <i>
 <pre>
-  Реалізувати задачу моделювання роботи банкомату. 
-  Передбачити, що користувач може ввести невірний PIN-код, 
-  в банкоматі може невистачити грошей для виконання операції користувача, 
-  банкомат може бути заблокований (в ньому можуть бути відсутні гроші), на картці.
+  Implement the task of simulating the operation of an ATM.
+  Assume that the user may enter a wrong PIN code,
+  the ATM may not have enough money to complete the user's transaction,
+  ATM may be blocked (there may be no money in it), on the card.
 </pre>
 </i>
 
